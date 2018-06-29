@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
     3.1 Vacant
      
-    3.2 The files of Trep Estimator must maintain perfect Github workflow.
+    3.2 The files of JAM must maintain perfect Github workflow.
         -Work and code should on a daily basis be pushed to Github with comments.
         
     Github Guides - Understanding the GitHub Flow:
@@ -74,8 +74,8 @@ ________________________________________________________________________________
     The worker/developer/programmer is responsible for creating a testplan matching the project scope.
     
     4.2 The worker/developer/programmer is responsible for a bug free product. This includes wide scale testing to find and
-    eliminate bugs. Bugs of importance found are to be documented and should be put on Github Trep-Estimator Issues 
-    (https://github.com/emilappelkvist/Trep-Estimator/issues) with label Bugs.
+    eliminate bugs. Bugs of importance found are to be documented and should be put on Github JAM Issues 
+    (https://github.com/trep-kalkyl/AM/issues) with label Bugs.
 
     To ensure that all requirements are met, all work will be reviewed by quality expert.
 
@@ -108,7 +108,7 @@ ________________________________________________________________________________
 8. NON-DISCLOSURE AGREEMENT
 
     Worker/developer/programmer must accept the terms in the following document:
-    https://github.com/emilappelkvist/trep-developer-wiki/blob/master/NDA
+    https://github.com/trep-kalkyl/trep-developer-wiki/blob/master/NDA
     
 ____________________________________________________________________________________
 
