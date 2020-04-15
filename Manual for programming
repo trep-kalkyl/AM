@@ -32,9 +32,9 @@ ________________________________________________________________________________
     If the documents have conflicting data or information, unless circumstances clearly dictate to others , apply the following 
     order:
         1. Specification of work
-        2. Manual for programming (this document) Including all documents linked in this document.
+        2. Manual for programming (this document) Including all instructions and documents linked in this document.
         3. Joomla! Coding Standards Manual (https://joomla.github.io/coding-standards/?coding-standards/introduction.md) Including 
-        all documents linked in this portal.
+        all instructions and documents linked in this portal.
         4. Joomla Developers (https://docs.joomla.org/Portal:Developers) Including all documents linked in this portal.
 
     2.2 Furher Instructions.
