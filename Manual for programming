@@ -48,11 +48,13 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 
 3. DOCUMENTATION
-
-    3.1 Vacant
      
-    3.2 The files of JAM must maintain perfect Github workflow.
+    3.1  The files of JAM must maintain perfect Github workflow.
         -Work and code should on a daily basis be pushed to Github with exhaustive comments.
+        
+     3.2 Pushing files to Github _main_ branch is _always_ done by Github repository owner. 
+        -Worker/developer/programmer do not push files to main branch or folder.
+        -Worker/developer/programmer do push files to experimental/development branch or folder.
         
     Github Guides - Understanding the GitHub Flow:
     "Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of 
