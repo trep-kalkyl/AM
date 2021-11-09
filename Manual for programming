@@ -37,11 +37,13 @@ ________________________________________________________________________________
         all instructions and documents linked in this portal.
         4. Joomla Developers (https://docs.joomla.org/Portal:Developers) Including all documents linked in this portal.
 
-    2.2 Furher Instructions.
+    2.2 Further Instructions.
         1. Code must be formatted in a strict manner. Great care must be taken to ensure easy maintaining and understanding 
         of code.
-        3. The code should if possible be self-explanatory.
-        2. Comments (in code) must be made in any situation where the purpose of the written code isn't immediately apperent.
+        2. The code should if possible be self-explanatory.
+        3. Comments (in code) must be made in any situation where the purpose of the written code isn't immediately apperent.
+        4. Great care must be taken to avoid the use of unsupported, old or inadequately documented libraries or any written or prewritten code with 
+        dependencies. (See also https://en.wikipedia.org/wiki/Dependency_hell).
 
     To ensure that all requirements are met, all work will be reviewed by quality expert.
 
@@ -50,11 +52,11 @@ ________________________________________________________________________________
 3. DOCUMENTATION
      
     3.1  The files of JAM must maintain perfect Github workflow.
-        -Work and code should on a daily basis be pushed to Github with exhaustive comments.
+        1. Work and code should on a daily basis be pushed to Github with _exhaustive_ comments.
         
      3.2 Pushing files to Github _main_ branch is _always_ done by Github repository owner. 
-        -Worker/developer/programmer do not push files to main branch or folder.
-        -Worker/developer/programmer do push files to experimental/development branch or folder.
+        1. Worker/developer/programmer do not push files to main branch or folder.
+        2. Worker/developer/programmer do push files to experimental/development branch or folder.
         
     Github Guides - Understanding the GitHub Flow:
     "Whenever you add, edit, or delete a file, you're making a commit, and adding them to your branch. This process of 
