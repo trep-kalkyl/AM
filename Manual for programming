@@ -13,8 +13,9 @@ INDEX
 6. PAYMENTS
 7. WARRANTY AND RESPONSIBILITY
 8. NON-DISCLOSURE AGREEMENT
-9. TIME
-10. REPORTS
+9. OWNERSHIP
+10. TIME
+11. REPORTS
 ____________________________________________________________________________________
 
 1. STATEMENT OF PURPOSE
@@ -116,13 +117,28 @@ ________________________________________________________________________________
     
 ____________________________________________________________________________________
 
-9. TIME
+10. OWNERSHIP 
+
+    The owner and copyright holder for the Intellectual Property and all files created are, without exceptions, Emil Appelkvist.
+    Every file created within the project must contain these tags:
+
+/*
+* @version		x.X.X
+* @copyright	Emil Appelkvist
+* @owner        Emil Appelkvist
+* @author		Worker/developer/programmer name, company and email
+* @license		Proprietary software
+*/
+____________________________________________________________________________________
+
+
+10. TIME
 
     According to agreement. 
 
 ____________________________________________________________________________________
 
-10. REPORTS
+11. REPORTS
 
     Worker/developer/programmer should report on a regular basis. 
     Every tuesday and every friday.
