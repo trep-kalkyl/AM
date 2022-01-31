@@ -123,11 +123,11 @@ ________________________________________________________________________________
     Every file created within the project must contain these tags:
 
 /*
-* @version		x.X.X
-* @copyright	Emil Appelkvist
-* @owner        Emil Appelkvist
-* @author		Worker/developer/programmer name, company and email
-* @license		Proprietary software
+* @version		    x.X.X
+* @copyright	    Emil Appelkvist
+* @owner            Emil Appelkvist
+* @author		    Worker/developer/programmer name, company and email
+* @license		    Proprietary software
 */
 ____________________________________________________________________________________
 
